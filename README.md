@@ -1,3 +1,3 @@
-# MoreFunctional
+# Java Multi Map
 
-Adds new Consumers and Suppliers to Java.
+Adds More Maps to Java.
